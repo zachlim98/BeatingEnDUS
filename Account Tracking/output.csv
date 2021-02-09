@@ -1,0 +1,88 @@
+Cash Activity Summary,Income & Expense Summary,Performance Summary
+"",,,,Portfolio Summary,,,
+"",Current,,Prior,Period % Estimated,Estimated,,
+Investment,Value,,Value,Change Change Income,Yield,,Portfolio Allocation
+Cash,"$3,993.30",$,-,"$3,993.30 - $-",-,,
+Insrd Dep Acct (IDA),-,,-,- - -,-,,
+"",,,,,,Short,
+Money Market,-,,-,- - -,-,Options,
+Short Balance,-,,-,- - -,-,15.1%,
+Stocks,-,,-,- - -,-,Options,
+1.3%Short Stocks,-,,-,- - -,-,,
+Fixed Income,-,,-,- - -,-,,
+Options,61.57,,-,61.57 - -,-,,
+Short Options,(723.01),,-,(723.01) - -,-,,
+Mutual Funds,-,,-,- - -,-,,
+Other,-,,-,- - -,-,,Cash
+Income Summary Detail*
+Online Cash Services Transaction Detail
+"",,,,,Account Activity,,,,,
+Trade,Settle,Acct,Transaction/,,,Symbol/,,,,
+Date,Date,Type,Cash Activity*,Description,,CUSIP,Quantity,Price,Amount,Balance
+10/12/20,10/13/20,Margin,Buy - Securities Purchased,PROSHARES TRUST,,-,1,3.35,(335.71),"3,888.37"
+"",,,,SQQQ Dec 18 20 20.0 P TO CLOSE,,,,,,
+"",,,,Commission/Fee 0.65,,,,,,
+"",,,,Regulatory Fee 0.01,,,,,,
+"",,,,GST FEE 0.05,,,,,,
+10/12/20,10/13/20,Margin,Sell - Securities Sold,PROSHARES TRUST,,-,1-,3.75,374.28,"4,262.65"
+"",,,,SQQQ Mar 19 21 18.0 P TO OPEN,,,,,,
+"",,,,Commission/Fee 0.65,,,,,,
+"",,,,Regulatory Fee 0.02,,,,,,
+"",,,,GST FEE 0.05,,,,,,
+10/13/20,10/13/20,Margin,Journal - Other,Courtesy Adjustment,,-,-,0.00,0.02,"4,262.67"
+10/15/20,10/16/20,Margin,Buy - Securities Purchased,PROSHARES TRUST,,-,1,3.80,(380.71),"3,881.96"
+"",,,,SQQQ Mar 19 21 18.0 P TO CLOSE,,,,,,
+"",,,,Commission/Fee 0.65,,,,,,
+"",,,,Regulatory Fee 0.01,,,,,,
+"",,,,GST FEE 0.05,,,,,,
+10/19/20,10/20/20,Margin,Sell - Securities Sold,BARRICK GOLD CORPORATION,,-,1-,0.61,60.29,"3,942.25"
+"",,,,GOLD Nov 20 20 26.0 P TO OPEN,,,,,,
+"",,,,Commission/Fee 0.65,,,,,,
+"",,,,Regulatory Fee 0.01,,,,,,
+"",,,,GST FEE 0.05,,,,,,
+10/21/20,10/22/20,Margin,Sell - Securities Sold,WORKHORSE GROUP INC,,-,1-,3.18,317.28,"4,259.53"
+"",,,,WKHS Dec 18 20 18.0 P TO OPEN,,,,,,
+"",,,,Commission/Fee 0.65,,,,,,
+"",,,,Regulatory Fee 0.02,,,,,,
+"",,,,GST FEE 0.05,,,,,,
+10/21/20,10/22/20,Margin,Buy - Securities Purchased,WORKHORSE GROUP INC,,-,1,2.97,(297.71),"3,961.82"
+"",,,,WKHS Nov 20 20 20.0 P TO CLOSE,,,,,,
+"",,,,Commission/Fee 0.65,,,,,,
+"",,,,Regulatory Fee 0.01,,,,,,
+"",,,,GST FEE 0.05,,,,,,
+10/22/20,10/22/20,Margin,Journal - Other,Courtesy Adjustment,,-,-,0.00,0.01,"3,961.83"
+10/27/20,10/28/20,Margin,Buy - Securities Purchased,BARRICK GOLD CORPORATION,,-,1,0.81,(81.71),"3,880.12"
+Trades Pending Settlement
+"",,,,,Account Activity,,,,,
+Trade,Settle,Acct,Transaction/,,,Symbol/,,,,
+Date,Date,Type,Cash Activity*,Description,,CUSIP,Quantity,Price,Amount,Balance
+10/29/20,10/30/20,Margin,Buy - Securities Purchased,TWITTER INC,,-,1,0.26,(26.71),"3,853.41"
+"",,,,TWTR Nov 20 20 35.0 P TO OPEN,,,,,,
+"",,,,Commission/Fee 0.65,,,,,,
+"",,,,Regulatory Fee 0.01,,,,,,
+"",,,,GST FEE 0.05,,,,,,
+10/29/20,10/30/20,Margin,Buy - Securities Purchased,TWITTER INC,,-,1,0.86,(86.71),"3,766.70"
+"",,,,TWTR Nov 20 20 65.0 C TO OPEN,,,,,,
+"",,,,Commission/Fee 0.65,,,,,,
+"",,,,Regulatory Fee 0.01,,,,,,
+"",,,,GST FEE 0.05,,,,,,
+10/29/20,10/30/20,Margin,Sell - Securities Sold,TWITTER INC,,-,1-,0.68,67.29,"3,833.99"
+"",,,,TWTR Nov 20 20 40.0 P TO OPEN,,,,,,
+"",,,,Commission/Fee 0.65,,,,,,
+"",,,,Regulatory Fee 0.01,,,,,,
+"",,,,GST FEE 0.05,,,,,,
+10/29/20,10/30/20,Margin,Sell - Securities Sold,TWITTER INC,,-,1-,1.60,159.29,"3,993.28"
+"",,,,TWTR Nov 20 20 60.0 C TO OPEN,,,,,,
+"",,,,Commission/Fee 0.65,,,,,,
+"",,,,Regulatory Fee 0.01,,,,,,
+"",,,,GST FEE 0.05,,,,,,
+10/30/20,10/30/20,Margin,Div/Int - Income,INTEREST CREDIT,,-,-,0.00,0.02,"3,993.30"
+"",,,,Payable: 10/30/2020,,,,,,
+Closing Balance,,,"$3,993.30"
+"*For Cash Activity totals, refer to the Cash Activity Summary on page one of your statement.",,,
+TD Ameritrade Cash Interest Credit/Expense,,,
+Begin Margin Credit Number,Interest,Interest,Interest
+Date Balance Balance of Days,Rate,Debited,Credited
+"10/06/20 $ - $ 4,204.51 7",0.01,$ -,$ 0.01
+"10/22/20 - 3,961.83 6",0.01,-,0.01
+Trades Pending Settlement
